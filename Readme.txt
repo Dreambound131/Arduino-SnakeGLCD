@@ -1,4 +1,4 @@
-IMPORTANT: In order to compile and run the project, you have to copy the folders from Libraries in your Arduino library folder
+IMPORTANT: In order to compile and run the project, you have to copy the folders from Libraries in your Arduino libraries folder
 (usually located in Documents\Arduino, or C:\Users\"Your user name"\Documents\Arduino).
 
 This is a porting of "PIC18F4550 Snake Game on 128x64 GLCD v2" for Arduino Uno. 
